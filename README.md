@@ -50,4 +50,3 @@ Authors: F. Siebers, A. Jayaram, P. Blümler, T. Speck
 ## Authors
 
 - Frank Siebers
-- ChatGPT (I wrote the readme)
